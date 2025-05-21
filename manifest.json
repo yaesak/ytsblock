@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "YT Short B",
+  "version": "0.2",
+  "description": "short wo hihyouji ni suru.",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
