@@ -1,1 +1,2 @@
-The short will be hidden.  licensed under cc0 
+The short will be hidden.
+
